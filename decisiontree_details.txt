@@ -1,0 +1,6 @@
+Impurity: Entropy, MaxBins=32: 97.14%
+Impurity: Gini, MaxBins=32: 97.18%
+Impurity: Gini, MaxBins=24: 96.76%
+Impurity: Entropy, MaxBins=32: 96.34%
+Impurity: Entropy, MaxBins=40: 97.36%
+Impurity: Gini, MaxBins=40: 97.40%
