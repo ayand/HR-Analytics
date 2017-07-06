@@ -6,7 +6,7 @@ Max Iterations: 10, RegParam: 0.3, Elastic Net Param: 0.4: 75.63%
 Max Iterations: 10, RegParam: 0.3, Elastic Net Param: 0.3: 75.63%
 Max Iterations: 10, RegParam: 0.3, Elastic Net Param: 0.2: 75.63%
 Max Iterations: 10, RegParam: 0.3, Elastic Net Param: 0.1: 75.63%
-Max Iterations: 10, RegParam: 0.1, Elastic Net Param: 0.1: 79.97%
+Max Iterations: 10, RegParam: 0.1, Elastic Net Param: 0.1: 79.97% (Couldn't reproduce this)
 Max Iterations: 10, RegParam: 0.15, Elastic Net Param: 0.1: 77.59%
 Max Iterations: 20, RegParam: 0.1, Elastic Net Param: 0.1: 78.03%
 Max Iterations: 30, RegParam: 0.1, Elastic Net Param: 0.15: 78.43%
